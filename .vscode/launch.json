@@ -4,7 +4,7 @@
         {
             "type": "al",
             "request": "launch",
-            "name": "BC     ",
+            "name": "BC ",
             "server": "http://bconpremcu4no",
             "serverInstance": "NAV",
             "authentication": "Windows",
